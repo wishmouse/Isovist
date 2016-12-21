@@ -1,2 +1,2 @@
 # Isovist
-Temp for Wellington
+Current temperature in any city
