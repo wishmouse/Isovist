@@ -1,0 +1,29 @@
+{
+  "name": "isovist",
+  "version": "1.0.0",
+  "description": "weather for wellington",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wishmouse/Isovist.git"
+  },
+  "author": "Heidi Goosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wishmouse/Isovist/issues"
+  },
+  "homepage": "https://github.com/wishmouse/Isovist#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "hbs": "^4.0.1",
+    "jquery": "^3.1.1",
+    "nodemon": "^1.11.0",
+    "superagent": "^3.3.1",
+  }
+}

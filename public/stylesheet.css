@@ -1,0 +1,25 @@
+.heading{
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial;
+  padding-bottom: 15px;
+
+}
+
+.search{
+  text-align: center;
+}
+
+.temp{
+  font-size:  50px;
+  text-align: center;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+  padding-top: 15px
+}
+
+.city{
+  font-size:  30px;
+  text-align: center;
+  font-family: Trebuchet MS;
+}

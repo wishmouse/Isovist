@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Isovist</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="./stylesheet.css">
+</head>
+<body>
+
+
+<div class="heading">Weather in your city</div>
+<div class="search">
+  <form method="post" action="/">
+      <input type="text" id="query" class="search" name="city" placeholder="Search for a city "/>
+      <input type="submit" class="button" value="Search" />
+  </form>
+</div>
+
+<div class="temp" >{{main.temp}}</div>
+
+<div class="city" >{{name}}</div>
+
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected token } in JSON at position 709 while parsing json file C:\\Users\\Admin\\Isovist\\package.json");
